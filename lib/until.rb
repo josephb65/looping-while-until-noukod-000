@@ -3,6 +3,7 @@ def using_until
         #your code here
         counter = 10
 until counter == 10
-puts ""
+puts "Wingardium Leviosa"
+counter += 1
 end
 
